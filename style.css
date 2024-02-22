@@ -7,6 +7,7 @@ body {
   width: 580px;
   font-size: 18px;
   line-height: 30px;
+  hyphens: auto;
 }
 
 header {
@@ -99,7 +100,7 @@ pre {
 
   pre {
     font-size: 14px;
-    line-height: 16px;
+    line-height: 18px;
   }
 
   img {
