@@ -139,6 +139,7 @@ text-decoration: none;
 
 a:visited {
   color: #0D7680;
+text-decoration: none;
 }
 
 p {
@@ -151,7 +152,7 @@ ul {
 }
 
 li {
-  margin: 0 0 0 20px;
+  margin: 0 0 0 30px;
   padding: 0;
 }
 
