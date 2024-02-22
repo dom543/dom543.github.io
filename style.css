@@ -43,7 +43,7 @@ h1 {
   line-height: 42px;
   font-weight: normal;
   margin-bottom: 30px;
-align-text: left;
+text-align: right;
 }
 
 body.post h1 {
