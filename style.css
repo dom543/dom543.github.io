@@ -92,6 +92,10 @@ pre {
   width: auto;
 }
 
+p.ending {
+text-align: right;
+}
+
 @media screen and (max-width: 580px) {
   body {
     margin: 10px auto;
